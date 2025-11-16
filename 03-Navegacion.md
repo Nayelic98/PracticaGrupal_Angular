@@ -10,9 +10,8 @@
 
 ### Autores
 
-**Pablo Torres**  
-📧 ptorersp@ups.edu.ec  
-💻 GitHub: [PabloT18](https://github.com/PabloT18)
+**Nayeli Barbecho y Jordy Romero**  
+💻 GitHub: [Nayeli Barbecho y Jordy Romero](https://github.com/Nayelic98/PracticaGrupal_Angular.git)
 
 
 
@@ -335,6 +334,7 @@ Sigue estos pasos para implementar la navegación en tu proyecto Angular:
 ### Paso 1: Crear las Páginas Principales
 
 #### 1.1 Crear ProyectosPage
+
 
 #### 1.2 Crear ProyectosDosPage
 
